@@ -14,6 +14,7 @@ In my tests it reached volumes significantly above "room volume". Its output pow
   <img src="doc/CAD.png" width="49%" />&nbsp;
   <img src="doc/PCB_top.png" width="49%" />&nbsp;
   <img src="doc/PCB_bot.png" width="49%" />&nbsp;
+
 </p>
 
 ### 3D-Printed Insert
@@ -29,5 +30,7 @@ The .step file can be found in the root of the repo and [the full design is on O
 - The project was designed for the now discontinued NL4FX. It is unclear if it would mechanically fit inside the new NL4FXX.
 - v0.1 has a 3225 footprint for a 6MHz crystal. No 6MHz crystal is available for that footprint tho.
 
+## Pictures in use
+![USB2Speakon in use](doc/in_use.JPG)
 
 [^1]: ~~Peak Music Power Output~~ Panel Melting Power Once
